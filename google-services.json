@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1059384622082",
+    "firebase_url": "https://hackmol2-default-rtdb.firebaseio.com",
+    "project_id": "hackmol2",
+    "storage_bucket": "hackmol2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059384622082:android:9bb930f6cdd872dad7bb1b",
+        "android_client_info": {
+          "package_name": "com.example.hackmol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059384622082-dimcnct76at1ie9iqht6oo8h0kg9avv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChy8DTxTNzQWcIxdrWmshG7-BtSdnlWQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059384622082-dimcnct76at1ie9iqht6oo8h0kg9avv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059384622082:android:fd233525f7413d0fd7bb1b",
+        "android_client_info": {
+          "package_name": "com.example.test3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059384622082-dimcnct76at1ie9iqht6oo8h0kg9avv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChy8DTxTNzQWcIxdrWmshG7-BtSdnlWQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059384622082-dimcnct76at1ie9iqht6oo8h0kg9avv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
